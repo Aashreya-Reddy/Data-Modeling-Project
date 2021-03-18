@@ -6,9 +6,7 @@ machine with hyperparameter tuning to attain a score of 91%. Performed cleaning 
 List of models that I've tried: 
 
 Logistic Regression
-
 Decision Tree
-
 Support Vector Machine 
 
 Random Forest
